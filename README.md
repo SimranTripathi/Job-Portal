@@ -5,18 +5,18 @@ A full-stack **Job Portal Web Application** developed using React.js, Node.js, E
 ##  Features
 
 *  User Registration & Login
-* 👤 User Profile Management
-* 💼 Browse and Search Jobs
-* 📄 Resume Upload
-* 👀 Resume Preview
-* ⬇️ Resume Download
-* 🔑 JWT-based Authentication
-* 🛡️ Password Encryption
-* 📊 User Dashboard
-* 📱 Responsive User Interface
-* 🔗 REST API Integration
+*  User Profile Management
+*  Browse and Search Jobs
+*  Resume Upload
+*  Resume Preview
+*  Resume Download
+*  JWT-based Authentication
+*  Password Encryption
+*  User Dashboard
+*  Responsive User Interface
+*  REST API Integration
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -49,7 +49,7 @@ A full-stack **Job Portal Web Application** developed using React.js, Node.js, E
 * Postman
 * npm
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Job-Portal/
