@@ -1,10 +1,10 @@
-# 💼 Job Portal Website
+#  Job Portal Website
 
 A full-stack **Job Portal Web Application** developed using React.js, Node.js, Express.js, and MongoDB. The platform allows users to register, login, manage their profiles, upload resumes, search for jobs, and interact with job-related features.
 
-## 🚀 Features
+##  Features
 
-* 🔐 User Registration & Login
+*  User Registration & Login
 * 👤 User Profile Management
 * 💼 Browse and Search Jobs
 * 📄 Resume Upload
