@@ -1,4 +1,4 @@
-#  Job Portal Website
+<img width="1824" height="1456" alt="Screenshot 2026-08-14 015140" src="https://github.com/user-attachments/assets/25a99767-7b06-4ab2-ae56-5192d43b9a41" />#  Job Portal Website
 
 A full-stack **Job Portal Web Application** developed using React.js, Node.js, Express.js, and MongoDB. The platform allows users to register, login, manage their profiles, upload resumes, search for jobs, and interact with job-related features.
 
@@ -179,11 +179,8 @@ Home Page
 Login Page
 Register Page
 Jobs Page
-<img width="1824" height="1456" alt="Screenshot 2026-08-14 015140" src="https://github.com/user-attachments/assets/9354d900-f59c-4b47-94d4-8ccd105cab3a" />
-
 Dashboard
 Profile Page
-
 Resume Upload Page
 Resume Preview
 ```
@@ -194,9 +191,13 @@ Example:
 ![Home Page](screenshots/home.png)
 ![Login Page](screenshots/login.png)
 ![Dashboard](screenshots/dashboard.png)
+#[Uploading Screenshot 2026-08-14 015140.png…]()
+
 ```
 
 ##  Learning Outcomes
+<img width="1824" height="1456" alt="Screenshot 2026-08-14 015140" src="https://github.com/user-attachments/assets/7f75fde7-2bfb-4162-9e7d-330b9f48e8d7" />
+
 
 Through this project, I learned:
 
