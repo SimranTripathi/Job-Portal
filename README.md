@@ -179,8 +179,11 @@ Home Page
 Login Page
 Register Page
 Jobs Page
+<img width="1824" height="1456" alt="Screenshot 2026-08-14 015140" src="https://github.com/user-attachments/assets/9354d900-f59c-4b47-94d4-8ccd105cab3a" />
+
 Dashboard
 Profile Page
+
 Resume Upload Page
 Resume Preview
 ```
