@@ -1,4 +1,4 @@
-<img width="1824" height="1456" alt="Screenshot 2026-08-14 015140" src="https://github.com/user-attachments/assets/25a99767-7b06-4ab2-ae56-5192d43b9a41" />#  Job Portal Website
+
 
 A full-stack **Job Portal Web Application** developed using React.js, Node.js, Express.js, and MongoDB. The platform allows users to register, login, manage their profiles, upload resumes, search for jobs, and interact with job-related features.
 
