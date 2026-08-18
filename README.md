@@ -143,13 +143,13 @@ The frontend will run on the Vite URL shown in the terminal, for example:
 http://localhost:5176
 ```
 
-## 🔑 Authentication
+##  Authentication
 
 The application uses **JWT (JSON Web Token)** for secure user authentication.
 
 Passwords are encrypted using **bcryptjs** before being stored in the database.
 
-## 📄 Resume Management
+##  Resume Management
 
 Users can:
 
@@ -158,7 +158,7 @@ Users can:
 3. Download their resume.
 4. Manage their profile information.
 
-## 🔌 API Modules
+##  API Modules
 
 The backend provides REST APIs for:
 
@@ -193,7 +193,7 @@ Example:
 ![Dashboard](screenshots/dashboard.png)
 ```
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
