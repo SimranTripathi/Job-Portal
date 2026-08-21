@@ -15,6 +15,8 @@ A full-stack **Job Portal Web Application** developed using React.js, Node.js, E
 *  User Dashboard
 *  Responsive User Interface
 *  REST API Integration
+*  use for better opportunite
+  
 
 ##  Technologies Used
 
