@@ -38,6 +38,7 @@ A full-stack **Job Portal Web Application** developed using React.js, Node.js, E
 * JWT Authentication
 * Multer
 * bcryptjs
+* API TESTING
 
 ### Database
 
