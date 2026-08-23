@@ -173,7 +173,7 @@ The backend provides REST APIs for:
 * Resume Download
 * Job Management
 
-## 📸 Screenshots
+##  Screenshots
 
 Add screenshots of your project here:
 
@@ -218,7 +218,7 @@ Through this project, I learned:
 * Frontend-backend integration using Axios
 * Git and GitHub project management
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Advanced job search and filtering
 * Job application tracking
@@ -228,7 +228,7 @@ Through this project, I learned:
 * Online interview scheduling
 * Application status tracking
 
-## 👩‍💻 Developer
+##  Developer
 
 **Simran Tripathi**
 
