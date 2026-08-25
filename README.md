@@ -206,6 +206,8 @@ Example:
 
 <img width="1794" height="1452" alt="Screenshot 2026-08-14 015008" src="https://github.com/user-attachments/assets/0ab4e0b8-7fe9-4d15-baed-c1cf97d1b5ac" />
 
+<img width="1479" height="1447" alt="Screenshot 2026-08-14 020752" src="https://github.com/user-attachments/assets/4a3193eb-e2ce-4e18-b751-a066305ecfca" />
+
 <img width="1824" height="1456" alt="Screenshot 2026-08-14 015140" src="https://github.com/user-attachments/assets/7f75fde7-2bfb-4162-9e7d-330b9f48e8d7" />
 
 <img width="1810" height="1409" alt="Screenshot 2026-08-14 015209" src="https://github.com/user-attachments/assets/f260ee93-b71f-4811-ae06-4916f9ff8405" />
