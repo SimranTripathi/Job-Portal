@@ -201,9 +201,13 @@ Example:
 ```
 
 ##  Learning Outcomes
+
+<img width="2287" height="1278" alt="Screenshot 2026-08-14 014915" src="https://github.com/user-attachments/assets/23131e8a-18d0-4709-ad58-f2da89833408" />
+
 <img width="1824" height="1456" alt="Screenshot 2026-08-14 015140" src="https://github.com/user-attachments/assets/7f75fde7-2bfb-4162-9e7d-330b9f48e8d7" />
 
 <img width="1889" height="1547" alt="Screenshot 2026-08-14 015052" src="https://github.com/user-attachments/assets/3c384062-568d-41c6-b089-49f8e5336bd9" />
+
 
 Through this project, I learned:
 
