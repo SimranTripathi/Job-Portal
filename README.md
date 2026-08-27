@@ -200,7 +200,7 @@ Example:
 
 ```
 
-##  Learning Outcomes
+
 
 <img width="2287" height="1278" alt="Screenshot 2026-08-14 014915" src="https://github.com/user-attachments/assets/23131e8a-18d0-4709-ad58-f2da89833408" />
 
@@ -216,6 +216,8 @@ Example:
 
 <img width="1479" height="1447" alt="Screenshot 2026-08-14 020752" src="https://github.com/user-attachments/assets/4a3193eb-e2ce-4e18-b751-a066305ecfca" />
 
+
+##  Learning Outcomes
 Through this project, I learned:
 
 * Full-stack web application development
