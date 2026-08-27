@@ -191,12 +191,12 @@ Resume Preview
 Example:
 
 ```markdown
-![Home Page]<img width="1810" height="1409" alt="Screenshot 2026-08-14 015209" src="https://github.com/user-attachments/assets/47f3fe6e-b0de-419d-b6d4-aeacdb851d7c" />
+![Home Page](screenshots/Home.png)
 
 ![Login Page](screenshots/login.png)
 ![Dashboard](screenshots/dashboard.png)
-#[Uploading Screenshot 2026-08-14 015140.png…]()
-#[Application Page] <img width="1479" height="1447" alt="Screenshot 2026-08-14 020752" src="https://github.com/user-attachments/assets/5ba19585-d312-4eef-96a6-172382f73d17" />
+#[Resume page]((screenshots/Resume.png)
+#[Application Page] ((screenshots/Application.png)
 
 ```
 
