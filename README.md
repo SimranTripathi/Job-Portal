@@ -16,7 +16,8 @@ A full-stack **Job Portal Web Application** developed using React.js, Node.js, E
 *  Responsive User Interface
 *  REST API Integration
 *  use for better opportunite
-*  Delete resume 
+*  Delete resume
+*  Find dream job in dream place
   
 
 ##  Technologies Used
