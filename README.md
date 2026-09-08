@@ -242,6 +242,7 @@ Through this project, I learned:
 * Job recommendations
 * Online interview scheduling
 * Application status tracking
+* Update Resume
 
 ##  Developer
 
@@ -249,6 +250,6 @@ Through this project, I learned:
 
 MCA | Chandigarh University
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 
 This project was developed as part of academic/project work to demonstrate full-stack web development skills using the MERN stack.
