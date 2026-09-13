@@ -4,21 +4,22 @@ A full-stack **Job Portal Web Application** developed using React.js, Node.js, E
 
 ##  Features
 
-*  User Registration & Login
-*  User Profile Management
-*  Browse and Search Jobs
-*  Resume Upload
-*  Resume Preview
-*  Resume Download
-*  JWT-based Authentication
-*  Password Encryption
-*  User Dashboard
-*  Responsive User Interface
-*  REST API Integration
-*  use for better opportunite
-*  Delete resume
-*  Find dream job in dream place
-  
+* ## Features
+
+* User Registration and Secure Login
+* User Profile Management
+* Browse, Search, and Explore Job Opportunities
+* Resume Upload and Management
+* Resume Preview and Download
+* Delete Resume Functionality
+* JWT-Based User Authentication
+* Secure Password Encryption
+* Personalized User Dashboard
+* Responsive and User-Friendly Interface
+* REST API Integration
+* Easy access to suitable job opportunities
+* Helps users discover their ideal jobs and preferred locations
+
 
 ##  Technologies Used
 
