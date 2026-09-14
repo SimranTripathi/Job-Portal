@@ -236,14 +236,16 @@ Through this project, I learned:
 
 ## Future Enhancements
 
-* Advanced job search and filtering
-* Job application tracking
-* Recruiter/Admin panel
-* Email notifications
-* Job recommendations
-* Online interview scheduling
-* Application status tracking
-* Update Resume
+* Advanced job search and filtering options
+* Job application and status tracking
+* Recruiter and Admin panel for managing job listings
+* Email notifications for job updates and application status
+* Personalized job recommendations based on user profiles
+* Online interview scheduling and management
+* Application progress and status monitoring
+* Resume updating and editing functionality
+* Improved matching between candidates and suitable job opportunities
+
 
 ##  Developer
 
