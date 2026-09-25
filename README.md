@@ -220,19 +220,21 @@ Example:
 <img width="1479" height="1447" alt="Screenshot 2026-08-14 020752" src="https://github.com/user-attachments/assets/4a3193eb-e2ce-4e18-b751-a066305ecfca" />
 
 
-##  Learning Outcomes
-Through this project, I learned:
+## Learning Outcomes
 
-* Full-stack web application development
-* React component development
-* REST API creation
-* Node.js and Express.js
-* MongoDB database integration
-* JWT authentication
-* Password hashing
-* File upload using Multer
-* Frontend-backend integration using Axios
-* Git and GitHub project management
+Through this project, I gained practical experience in:
+
+* Developing full-stack web applications
+* Building reusable React components
+* Designing and developing RESTful APIs
+* Working with Node.js and Express.js for backend development
+* Integrating and managing data using MongoDB
+* Implementing JWT-based authentication
+* Securing user passwords with password hashing
+* Handling file uploads using Multer
+* Connecting frontend and backend using Axios
+* Managing and collaborating on projects using Git and GitHub
+
 
 ## Future Enhancements
 
