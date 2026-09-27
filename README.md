@@ -1,6 +1,6 @@
 
 
-A full-stack **Job Portal Web Application** developed using React.js, Node.js, Express.js, and MongoDB. The platform allows users to register, login, manage their profiles, upload resumes, search for jobs, and interact with job-related features.
+A full-stack **Job Portal Web Application** developed using React.js, Node.js, Express.js, and MongoDB. The platform allows users to register, login, manage their profiles, upload resumes, search for jobs, and interact with job-related features, details.
 
 
 
