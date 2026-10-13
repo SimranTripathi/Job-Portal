@@ -19,6 +19,7 @@ A full-stack **Job Portal Web Application** developed using React.js, Node.js, E
 * REST API Integration
 * Easy access to suitable job opportunities
 * Helps users discover their ideal jobs and preferred locations
+* record all details of the company eligible 
 
 
 ##  Technologies Used
