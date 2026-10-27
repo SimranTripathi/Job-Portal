@@ -7,6 +7,7 @@ A full-stack **Job Portal Web Application** developed using React.js, Node.js, E
 * ## Features
 
 * User Registration and Secure Login
+* Show all related location
 * User Profile Management
 * Browse, Search, and Explore Job Opportunities
 * Resume Upload and Management
